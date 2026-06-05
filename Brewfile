@@ -1,3 +1,5 @@
+tap "hashicorp/tap"
+
 brew "stow"
 brew "starship"
 brew "zsh"
@@ -13,6 +15,8 @@ brew "tree"
 brew "mise"
 brew "kubectl"
 brew "helm"
+brew "awscli"
+brew "hashicorp/tap/terraform"
 
 cask "basictex"
 cask "1password"

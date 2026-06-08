@@ -20,6 +20,7 @@ brew "hashicorp/tap/terraform"
 
 cask "basictex"
 cask "1password"
+cask "1password-cli"
 cask "bruno"
 cask "codex"
 cask "dotnet-sdk"

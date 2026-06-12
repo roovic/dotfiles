@@ -17,6 +17,7 @@ brew "kubectl"
 brew "helm"
 brew "awscli"
 brew "hashicorp/tap/terraform"
+brew "hashicorp/tap/sentinel"
 
 cask "basictex"
 cask "1password"
